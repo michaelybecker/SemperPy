@@ -6,6 +6,8 @@ br = mechanize.Browser()
 br.set_handle_robots(False)
 br.set_handle_refresh(False)
 
+# Wow. It is a  featured comment!
+
 # response = br.open("https://murmuring-headland-7671.herokuapp.com/users//add/")
 # print response.read()
 
